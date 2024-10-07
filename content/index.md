@@ -8,14 +8,14 @@
 # See details at (https://github.com/mayamcdougall/freelancer-pico/blob/main/README.md)
 # Or in the included README.md.
 
-Title: Asset Manager
+Title: Lucas A. Lewis
 og_image: "%assets_url%/og_image.png"
 # css: "%assets_url%/styles.css"
 header:
 #   avatar: "%assets_url%/avatar.png"
 #   avatar_alt: Alt Text for My Avatar
 #   divider: star
-  skills: Asset Management - Astronaut - Cowboy
+  skills: Asset Manager - Astronaut - Cowboy
 #   disabled: true
 # nav:
 #   portfolio: Portfolio
@@ -42,32 +42,32 @@ about:
 #       size: xlarge
 #       color: light
 #       disabled: true
-# contact:
-#   title: Contact Me
-#   divider: star
-#   subtitle: Or Reach Me At
-#   subdivider: star
-#   disabled: true
-#   form:
-#     enabled: true
-#     action: /url.php
-#     method: POST
-#   items:
-#   - title: Phone
-#     icon: mobile-alt
-      content: (816) 555-555
-#     link: tel:555555555
-#   - title: Email
-#     icon: envelope
-#     content: name@example.com
-#     link: mailto:name@example.com
+contact:
+#  title: Contact Me
+#  divider: star
+#  subtitle: Or Reach Me At
+#  subdivider: star
+#  disabled: true
+#  form:
+#    enabled: true
+#    action: /url.php
+#    method: POST
+  items:
+  - title: Telephone
+    icon: mobile-alt
+    content: (816) 673-8259
+    link: tel:8166738259
+  - title: Email
+    icon: envelope
+    content: lucasalewis@gmail.com
+    link: mailto:lucasalewis@gmail.com
 location:
   title: Location
   content:
-      Missouri Town 1855
-      
-      Blue Springs, MO 64015
-  disabled: true
+    Missouri Town 1855
+    
+    Blue Springs, MO 64015
+#  disabled: true
 social:
   title: Around The Web
   items:
@@ -92,5 +92,5 @@ disabled: true
 copyright: 
     content:
       Copyright &copy; lucasalewis.com 2024
-disabled: true
+# disabled: true
 ---
