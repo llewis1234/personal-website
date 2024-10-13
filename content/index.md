@@ -9,12 +9,12 @@
 # Or in the included README.md.
 
 Title: Lucas A. Lewis
-og_image: "%assets_url%/og_image.png"
+# og_image: "%assets_url%/og_image.png"
 # css: "%assets_url%/styles.css"
 header:
-#   avatar: "%assets_url%/avatar.png"
-#   avatar_alt: Alt Text for My Avatar
-#   divider: star
+  avatar: "%assets_url%/myAvatar.svg"
+#  avatar_alt: Alt Text for My Avatar
+  divider: robot
   skills: Asset Manager - Astronaut - Cowboy
 #   disabled: true
 # nav:
@@ -22,14 +22,14 @@ header:
 #   about: About
 #   contact: Contact
 #   disabled: true
-# portfolio:
-#   title: Portfolio
-#   divider: star
+portfolio:
+  title: Projects
+  divider: bars
 #   disabled: true
 #   disable_close_buttons: true
 about:
   title: About
-  divider: star
+  divider: id-card
   content: 
     I am a mid-career student at Metropolitan Community Colleges of Kansas City. The National Security Agency has designated the school as a National Center of Academic Excellence in Cyber Defense (CAE-CD) through year 2028. I am employed as an Asset Coordinator, I work remotely organizing the movement of A/V production equipment for concerts and conventions. 
 #     Your site's metadata provides tons of extra customization as well. You can specify your own avatar for the masthead, change the icons in the dividers, the social icons, and most of the text on the page all without touching the theme's code.
