@@ -31,7 +31,12 @@ about:
   title: About
   divider: id-card
   content: 
-    I am a mid-career student at Metropolitan Community Colleges of Kansas City. The National Security Agency has designated the school as a National Center of Academic Excellence in Cyber Defense (CAE-CD) through year 2028. I am employed as an Asset Coordinator, I work remotely organizing the movement of A/V production equipment for concerts and conventions. 
+   I am currently pursuing my degree in Computer Science & Information Systems at Metropolitan Community Colleges of Kansas City, a school recognized by the National Security Agency as a National Center of Academic Excellence in Cyber Defense (CAE-CD) through 2028. This prestigious designation reflects the quality of the cybersecurity education I am receiving as I continue to build my expertise in network security, systems administration, and cyber defense.
+   
+   Alongside my studies, I am employed as a remote Asset Coordinator, where I manage the logistics of A/V production equipment for large-scale events such as concerts, conventions, and corporate gatherings. This role has honed my organizational skills and given me experience working across multiple industries, helping to ensure that each event’s technical needs are met efficiently.
+   
+   Returning to school to further my education has been a pivotal step in my career development. My goal is to merge my technical expertise with my hands-on experience to contribute meaningfully in the fields of cybersecurity and IT infrastructure.
+
 #     Your site's metadata provides tons of extra customization as well. You can specify your own avatar for the masthead, change the icons in the dividers, the social icons, and most of the text on the page all without touching the theme's code.
 #   disabled: true
 #   actions:
