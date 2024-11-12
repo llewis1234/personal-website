@@ -1,5 +1,10 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
+    
+    # Redirect HTTP to HTTPS
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
     # May be required to access sub directories
     #RewriteBase /
 
