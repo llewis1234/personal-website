@@ -1,7 +1,7 @@
 ---
 title: "CompTIA"
 thumbnail: ""
-image: "%theme_url%/assets/img/portfolio/cheetah.png"
+image: "%theme_url%/assets/img/portfolio/NetworkPlus.png"
 description: "Created personal website"
 ---
 
