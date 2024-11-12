@@ -14,8 +14,8 @@ Title: Lucas A. Lewis
 header:
   avatar: "%assets_url%/myAvatar.svg"
 #  avatar_alt: Alt Text for My Avatar
-  divider: robot
-  skills: Asset Manager - Astronaut - Cowboy
+  divider: user-tie
+  skills:  System Administrator - Ethical Hacker - Asset Manager
 #   disabled: true
 # nav:
 #   portfolio: Portfolio
@@ -90,9 +90,9 @@ social:
   link: dribbble.com
 disabled: true
 footer:
-  title: About Freelancer
+  title: Thanks for visiting. 
   content: |
-    Thank you for visiting, I look forward to speaking with you soon. 
+    I look forward to speaking with you soon. 
 disabled: true
 copyright: 
     content:
