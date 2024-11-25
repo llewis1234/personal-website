@@ -76,9 +76,9 @@ location:
 social:
   title: Around The Web
   items:
-  icon: facebook-f
+  icon: github
   brands: true
-  link: http://facebook.com/
+  link: https://github.com/llewis1234
   icon: twitter
   brands: true
   link: http://twitter.com/
@@ -88,7 +88,7 @@ social:
   icon: dribbble
   brands: true
   link: dribbble.com
-disabled: true
+#  disabled: true
 footer:
   title: Thanks for visiting. 
   content: |
