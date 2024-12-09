@@ -76,19 +76,16 @@ location:
 social:
   title: Around The Web
   items:
-  icon: facebook-f
+  icon: github
   brands: true
-  link: http://facebook.com/
-  icon: twitter
-  brands: true
-  link: http://twitter.com/
-  icon: linkedin-in
+  link: https://github.com/llewis1234
+  icon: square-github
   brands: true
   link: https://www.linkedin.com/in/lucas-lewis-lal/
-  icon: dribbble
+  icon: github
   brands: true
   link: dribbble.com
-disabled: true
+#  disabled: true
 footer:
   title: Thanks for visiting. 
   content: |
@@ -97,5 +94,5 @@ disabled: true
 copyright: 
     content:
       Copyright &copy; lucasalewis.com 2024
-# disabled: true
+#  disabled: true
 ---
