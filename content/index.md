@@ -79,13 +79,10 @@ social:
   icon: github
   brands: true
   link: https://github.com/llewis1234
-  icon: twitter
-  brands: true
-  link: http://twitter.com/
-  icon: linkedin-in
+  icon: square-github
   brands: true
   link: https://www.linkedin.com/in/lucas-lewis-lal/
-  icon: dribbble
+  icon: github
   brands: true
   link: dribbble.com
 #  disabled: true
@@ -97,5 +94,5 @@ disabled: true
 copyright: 
     content:
       Copyright &copy; lucasalewis.com 2024
-# disabled: true
+#  disabled: true
 ---

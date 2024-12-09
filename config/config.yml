@@ -62,6 +62,6 @@ my_custom_setting: Hello World!     # You can access custom settings in themes u
 
 # Pico Lock Config
 PicoLock:
-    password: "ab31c142e56e25ac49d16508b1bd5bc22125ebc15810da6033aa22d6e572ac2399d3ac3a944aa404c85b91d1a588d72ea33becc36c74a94b032e6ce414838857" # You have to use your own password (you should use hash, not raw password! https://sha512.online/)
+    password: "5075171276d915c5e3720c7638505fa70edb9440c274300a86460cdbde713380ef3c05acc66cc4938b53519f8bccaf9bfc6b132adf32c312f0fabf2be0f2687d" # You have to use your own password (you should use hash, not raw password! https://sha512.online/)
     enterPasswordMessage: "Please enter password:"  # to change the message before the password field (optional)
     wrongPasswordMessage: "That's not the password, please try again." # to change the error message if a wrong password was entered (optional)
